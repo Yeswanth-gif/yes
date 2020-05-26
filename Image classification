@@ -51,4 +51,4 @@ count
 len(y_pred)
 
 #accuracy value
-8090/8400
+count/len(y_pred)
